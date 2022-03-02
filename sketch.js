@@ -71,7 +71,7 @@ var sketch = function(mapCanvas) {
     // timeLapse.position(800, 900)
     
     timeLine = mapCanvas.createSlider(1960, 2014, 2014)
-    timeLine.position(63.5, 745)
+    timeLine.position(63.5, 725)
     timeLine.size(640)
   }
   
