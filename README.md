@@ -4,4 +4,4 @@ An interactive web application to depict different crimes in the United States f
 
 The game is deployed [here](https://khholst.github.io/US-crime-map/)
  
-![Snipshot of the application](/us-crime-snip.PNG "Snipshot of the app")
+![Snipshot of the application](./us-crime-snip.PNG "Snipshot of the app")
