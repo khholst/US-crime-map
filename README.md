@@ -4,6 +4,6 @@ An interactive web application to depict different crimes in the United States f
 
 The app uses [p5.js](https://p5js.org/) and [mappa](https://mappa.js.org/docs/tldr-p5.html) libraries to visualise data.
 
-The game is deployed [here](https://khholst.github.io/US-crime-map/)
+The application is deployed [here](https://khholst.github.io/US-crime-map/)
  
 ![Snipshot of the application](us-crime.png "Snipshot of the app")
